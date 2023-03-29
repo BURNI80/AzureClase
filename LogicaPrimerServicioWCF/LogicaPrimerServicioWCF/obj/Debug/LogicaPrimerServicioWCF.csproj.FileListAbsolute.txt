@@ -1,0 +1,6 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\LogicaPrimerServicioWCF\bin\Debug\LogicaPrimerServicioWCF.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\LogicaPrimerServicioWCF\bin\Debug\LogicaPrimerServicioWCF.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\LogicaPrimerServicioWCF\obj\Debug\LogicaPrimerServicioWCF.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\LogicaPrimerServicioWCF\obj\Debug\LogicaPrimerServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\LogicaPrimerServicioWCF\obj\Debug\LogicaPrimerServicioWCF.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\LogicaPrimerServicioWCF\obj\Debug\LogicaPrimerServicioWCF.pdb

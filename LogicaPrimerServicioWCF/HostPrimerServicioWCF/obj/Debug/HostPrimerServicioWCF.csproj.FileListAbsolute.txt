@@ -1,0 +1,10 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\bin\HostPrimerServicioWCF.dll.config
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\bin\HostPrimerServicioWCF.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\bin\HostPrimerServicioWCF.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\bin\LogicaPrimerServicioWCF.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\bin\LogicaPrimerServicioWCF.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\obj\Debug\HostPrimerServicioWCF.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\obj\Debug\HostPrimerServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\obj\Debug\HostPrimerServicioWCF.csproj.CopyComplete
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\obj\Debug\HostPrimerServicioWCF.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\LogicaPrimerServicioWCF\HostPrimerServicioWCF\obj\Debug\HostPrimerServicioWCF.pdb
