@@ -1,0 +1,17 @@
+﻿@model Artista
+
+<form method="post">
+    <input type="hidden" id="idArtista" name="idArtista" value="@Model.IdArtista" />
+
+    <label for="nombre" class="form-label">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" class="form-control" value="@Model.Nombre" />
+
+    <label for="nacionalidad" class="form-label">Nacionalidad:</label>
+    <input type="text" id="nacionalidad" name="nacionalidad" class="form-control" value="@Model.Nacionalidad" />
+
+    <button class="btn btn-warning my-2">Guardar Cambios</button>
+
+    <a asp-controller="Musica" asp-action="GetArtistas" class="btn btn-secondary">
+        Volver
+    </a>
+</form>

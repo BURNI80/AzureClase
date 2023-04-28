@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<CLIENTES>
+  <CLIENTE>
+	<IDCLIENTE>1</IDCLIENTE>
+    <NOMBRE>DELORIAN</NOMBRE>
+    <DIRECCION>C/ Paseo Castellana, 150</DIRECCION>
+    <EMAIL>blockbuster@video.es</EMAIL>
+    <IMAGENCLIENTE>https://emerdelac.files.wordpress.com/2012/10/flyingcar.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>2</IDCLIENTE>
+    <NOMBRE>RICARDO TUBBS</NOMBRE>
+    <DIRECCION>C/ Islas Canarias, 19</DIRECCION>
+    <EMAIL>miamivice@video.es</EMAIL>
+    <IMAGENCLIENTE>https://s-media-cache-ak0.pinimg.com/236x/f9/14/c8/f914c898dcfd5574c0dd8bdc72fc3897.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>3</IDCLIENTE>
+    <NOMBRE>JOHNNY UTAH</NOMBRE>
+    <DIRECCION>C/ Piratas, 78</DIRECCION>
+    <EMAIL>bodhi@pirata.es</EMAIL>
+    <IMAGENCLIENTE>https://webbingthesurf.files.wordpress.com/2015/05/johnny-utah.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>4</IDCLIENTE>
+    <NOMBRE>PINKY WINKI</NOMBRE>
+    <DIRECCION>C/ Olimpo, 25</DIRECCION>
+    <EMAIL>pinkywinki@musas.es</EMAIL>
+    <IMAGENCLIENTE>https://images.ecestaticos.com/NSkPfLCBjyZEQNSMiBz76tubCYI=/1x12:1023x587/1200x1200/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc6f%2Fc49%2F200%2Fc6fc49200334447aa6bd9850351b3d21.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>5</IDCLIENTE>
+    <NOMBRE>OPTIMUS PRIME</NOMBRE>
+    <DIRECCION>C/ Transformers, 1</DIRECCION>
+    <EMAIL>transformers@dvd.es</EMAIL>
+    <IMAGENCLIENTE>http://tfwiki.net/mediawiki/images2/thumb/3/37/Optimusg1.jpg/350px-Optimusg1.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>6</IDCLIENTE>
+    <NOMBRE>MICHAEL SCOFIELD</NOMBRE>
+    <DIRECCION>C/ Anton, 16</DIRECCION>
+    <EMAIL>teabag@esfera.es</EMAIL>
+    <IMAGENCLIENTE>http://images.buddytv.com/articles/image/michael1.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>7</IDCLIENTE>
+    <NOMBRE>CORONEL BRADDOCK</NOMBRE>
+    <DIRECCION>C/ Desaparecido, 80</DIRECCION>
+    <EMAIL>chucknorris@braddock.es</EMAIL>
+    <IMAGENCLIENTE>http://tamaimos.com/wp-content/uploads/2012/02/chuckn_small.jpeg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>8</IDCLIENTE>
+    <NOMBRE>MADMARTIGAN</NOMBRE>
+    <DIRECCION>C/ Dramoga, 91</DIRECCION>
+    <EMAIL>willow@dramoga.es</EMAIL>
+    <IMAGENCLIENTE>http://thumbs.modthesims2.com/img/5/6/7/6/3/9/MTS_Paleoanth-650246-WILLOW2003.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>9</IDCLIENTE>
+    <NOMBRE>JESUS QUINTANA</NOMBRE>
+    <DIRECCION>C/ Lebowsky, 19</DIRECCION>
+    <EMAIL>granlebowski@quintana.es</EMAIL>
+    <IMAGENCLIENTE>https://i.ytimg.com/vi/YFz8Tptq634/maxresdefault.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>10</IDCLIENTE>
+    <NOMBRE>MICHAEL KNIGHT</NOMBRE>
+    <DIRECCION>C/ Fantastic car, 21</DIRECCION>
+    <EMAIL>michaelknight@ninonino.com</EMAIL>
+    <IMAGENCLIENTE>http://www.snakkle.com/wp-content/uploads/2012/11/David-Hasselhoff-GC.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>11</IDCLIENTE>
+    <NOMBRE>MARTY MACFLY</NOMBRE>
+    <DIRECCION>C/ Emmet brown, 20</DIRECCION>
+    <EMAIL>condensadordefluzo@macfly.es</EMAIL>
+    <IMAGENCLIENTE>http://static.lared.cl/wp-content/uploads/2015/10/marty-960.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>12</IDCLIENTE>
+    <NOMBRE>JOHN CONNOR</NOMBRE>
+    <DIRECCION>C/ T-1000</DIRECCION>
+    <EMAIL>terminator@connor.es</EMAIL>
+    <IMAGENCLIENTE>https://d.wattpad.com/story_parts/87366263/images/13af12844be59cf8.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>14</IDCLIENTE>  
+    <NOMBRE>MIKEY WALSH</NOMBRE>
+    <DIRECCION>C/ Valle Goonie, 85</DIRECCION>
+    <EMAIL>miky@goonies.es</EMAIL>
+    <IMAGENCLIENTE>http://static.celebuzz.com/uploads/2009/09/28/msg-125415651638-3.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>15</IDCLIENTE>
+    <NOMBRE>DANIEL LARUSSO</NOMBRE>
+    <DIRECCION>C/ Señor Miyagi,21</DIRECCION>
+    <EMAIL>danielsan@miyagi.com</EMAIL>
+    <IMAGENCLIENTE>https://files.lafm.com.co/assets/public/2020-09/kid__0.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>16</IDCLIENTE>
+    <NOMBRE>CUCO</NOMBRE>
+    <DIRECCION>C/ Franco, 19</DIRECCION>
+    <EMAIL>cuco@torrente.es</EMAIL>
+    <IMAGENCLIENTE>https://www.abc.es/media/peliculas/000/003/802/torrente-2-mision-en-marbella-2.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+  <CLIENTE>
+	<IDCLIENTE>17</IDCLIENTE>
+    <NOMBRE>ICE MAN</NOMBRE>
+    <DIRECCION>C/ Miramar, 1</DIRECCION>
+    <EMAIL>maverick@topgun.com</EMAIL>
+    <IMAGENCLIENTE>http://i0.wp.com/www.ruthlessreviews.com/wp-content/uploads/2011/08/TOP-GUN-ICEMAN12.jpg</IMAGENCLIENTE>
+  </CLIENTE>
+</CLIENTES>

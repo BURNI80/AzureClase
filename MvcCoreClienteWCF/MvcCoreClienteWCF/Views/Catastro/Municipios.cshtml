@@ -1,0 +1,17 @@
+﻿@model List<string>
+
+<h1>Municipios</h1>
+
+<a asp-controller="Catastro"
+    asp-action="Index">
+    Volver a Index
+</a>
+
+<ul class="list-group">
+    @foreach (string municipio in Model)
+    {
+        <li class="list-group-item">
+            @municipio
+        </li>
+    }
+</ul>

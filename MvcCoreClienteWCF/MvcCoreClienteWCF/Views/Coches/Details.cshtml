@@ -1,0 +1,16 @@
+﻿@model Coche
+
+<h1>Details</h1>
+
+<a asp-controller="Coches" asp-action="Index">
+    Volver a Coches
+</a>
+
+<ul class="list-group">
+    <li class="list-group-item">
+        Coche: @Model.Marca @Model.Modelo
+    </li>
+    <li class="list-group-item">
+        @*<img src="@Model.Imagen" style="width: 350px; height: 350px" />*@
+    </li>
+</ul>

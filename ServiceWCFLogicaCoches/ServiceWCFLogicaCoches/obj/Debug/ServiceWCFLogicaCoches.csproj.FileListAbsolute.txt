@@ -1,0 +1,6 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFLogicaCoches\bin\Debug\ServiceWCFLogicaCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFLogicaCoches\bin\Debug\ServiceWCFLogicaCoches.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFLogicaCoches\obj\Debug\ServiceWCFLogicaCoches.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFLogicaCoches\obj\Debug\ServiceWCFLogicaCoches.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFLogicaCoches\obj\Debug\ServiceWCFLogicaCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFLogicaCoches\obj\Debug\ServiceWCFLogicaCoches.pdb

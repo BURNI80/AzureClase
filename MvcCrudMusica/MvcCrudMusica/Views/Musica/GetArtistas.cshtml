@@ -1,0 +1,61 @@
+﻿@model List<Artista>
+
+@{
+    int numeroRegistros = (int)ViewBag.NumeroRegistros;
+    int rango = (int)ViewBag.Rango;
+    int counter = 1;
+}
+
+<h1 style="text-align: center;" class="text-primary">
+    Listado de Artistas
+</h1>
+
+@if (Model != null) {
+
+    <form method="post">
+        <label for="newRango" class="form-label">Modificar rango:</label>
+        <input type="number" id="newRango" name="rango" class="form-control w-50 d-inline-block" value="@rango" required />
+        <button class="btn btn-primary m-1">
+            Modificar
+        </button>
+    </form>
+
+    for (int i = 0; i < numeroRegistros; i += rango) {
+        <a class="btn btn-outline-dark my-2" asp-controller="Musica" asp-action="GetArtistas" asp-route-posicion="@i" asp-route-rango="@rango">
+            @(counter++)
+        </a>
+    }
+
+    <table class="table table-dark table-bordered">
+        <thead>
+            <tr>
+                <th>IdArtista</th>
+                <th>Nombre</th>
+                <th>Nacionalidad</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Artista artista in Model) {
+                <tr>
+                    <td>@artista.IdArtista</td>
+                    <td>@artista.Nombre</td>
+                    <td>@artista.Nacionalidad</td>
+                    <td style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
+                        <a asp-controller="Musica" asp-action="DeleteArtista" asp-route-idArtista="@artista.IdArtista" class="btn btn-danger">
+                            Eliminar
+                        </a>
+                        <a asp-controller="Musica" asp-action="UpdateArtista" asp-route-idArtista="@artista.IdArtista" class="btn btn-warning">
+                            Modificar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+
+<a asp-controller="Musica" asp-action="CreateArtista" class="btn btn-success">
+    Crear Artista
+</a>

@@ -1,0 +1,6 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFLogicaClientes\bin\Debug\ServicioWCFLogicaClientes.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFLogicaClientes\bin\Debug\ServicioWCFLogicaClientes.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFLogicaClientes\obj\Debug\ServicioWCFLogicaClientes.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFLogicaClientes\obj\Debug\ServicioWCFLogicaClientes.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFLogicaClientes\obj\Debug\ServicioWCFLogicaClientes.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFLogicaClientes\obj\Debug\ServicioWCFLogicaClientes.pdb

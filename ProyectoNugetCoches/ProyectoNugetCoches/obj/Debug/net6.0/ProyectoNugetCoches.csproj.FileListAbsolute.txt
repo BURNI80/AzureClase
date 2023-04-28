@@ -1,0 +1,12 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\bin\Debug\net6.0\ProyectoNugetCoches.deps.json
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\bin\Debug\net6.0\ProyectoNugetCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\bin\Debug\net6.0\ProyectoNugetCoches.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\ProyectoNugetCoches.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\ProyectoNugetCoches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\ProyectoNugetCoches.AssemblyInfoInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\ProyectoNugetCoches.AssemblyInfo.cs
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\ProyectoNugetCoches.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\ProyectoNugetCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\refint\ProyectoNugetCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\ProyectoNugetCoches.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ProyectoNugetCoches\ProyectoNugetCoches\obj\Debug\net6.0\ref\ProyectoNugetCoches.dll

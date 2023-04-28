@@ -1,0 +1,15 @@
+﻿<form method="post">
+    <input type="hidden" id="idArtista" name="idArtista" value="0" />
+    
+    <label for="nombre" class="form-label">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" class="form-control" />
+    
+    <label for="nacionalidad" class="form-label">Nacionalidad:</label>
+    <input type="text" id="nacionalidad" name="nacionalidad" class="form-control" />
+
+    <button class="btn btn-success my-2">Crear Artista</button>
+
+    <a asp-controller="Musica" asp-action="GetArtistas" class="btn btn-secondary">
+        Volver
+    </a>
+</form>

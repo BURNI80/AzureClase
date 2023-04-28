@@ -1,0 +1,22 @@
+﻿@model Cliente[]
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Nombre</td>
+            <td>Direccion</td>
+            <td>Email</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Cliente c in Model)
+        {
+            <tr>
+                <td>@c.Nombre</td>
+                <td>@c.Direccion</td>
+                <td>@c.Email</td>
+                <td><a asp-action="Details" asp-controller="Clientes" asp-route-id="@c.Id">Detalles</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

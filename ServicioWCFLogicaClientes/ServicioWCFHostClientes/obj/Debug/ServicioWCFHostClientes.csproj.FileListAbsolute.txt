@@ -1,0 +1,10 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\bin\ServicioWCFHostClientes.dll.config
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\bin\ServicioWCFHostClientes.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\bin\ServicioWCFHostClientes.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\bin\ServicioWCFLogicaClientes.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\bin\ServicioWCFLogicaClientes.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\obj\Debug\ServicioWCFHostClientes.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\obj\Debug\ServicioWCFHostClientes.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\obj\Debug\ServicioWCFHostClientes.csproj.CopyComplete
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\obj\Debug\ServicioWCFHostClientes.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServicioWCFLogicaClientes\ServicioWCFHostClientes\obj\Debug\ServicioWCFHostClientes.pdb

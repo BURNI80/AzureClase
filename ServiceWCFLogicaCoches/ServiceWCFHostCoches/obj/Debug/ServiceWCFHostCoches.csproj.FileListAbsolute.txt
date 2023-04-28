@@ -1,0 +1,10 @@
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\bin\ServiceWCFHostCoches.dll.config
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\bin\ServiceWCFHostCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\bin\ServiceWCFHostCoches.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\bin\ServiceWCFLogicaCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\bin\ServiceWCFLogicaCoches.pdb
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\obj\Debug\ServiceWCFHostCoches.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\obj\Debug\ServiceWCFHostCoches.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\obj\Debug\ServiceWCFHostCoches.csproj.CopyComplete
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\obj\Debug\ServiceWCFHostCoches.dll
+C:\Users\Alumnos MCSD Mañana\Desktop\Azure\ServiceWCFLogicaCoches\ServiceWCFHostCoches\obj\Debug\ServiceWCFHostCoches.pdb

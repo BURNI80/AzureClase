@@ -1,0 +1,30 @@
+﻿@model List<Comic>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Imagen</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td><img src="@item.Imagen" style="width:150px;height:150px" /></td>
+                <td><a asp-action="Details" asp-controller="Comics" asp-route-id="@item.IdComic">Detalles</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
